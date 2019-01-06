@@ -68,7 +68,7 @@ Having said that, I haven't traded this system, and thus cannot share my experie
 ## Impression of the System
 The interesting point about this system is trading around the round numbers, waiting for the confirmation of the 2 arrows and the  and AAM which forces you to be patient with reversal trading.
 
-## Main critique arguments and suggestions:
+## Main critique arguments and suggestions
 - The indicators repaint. Remove claims that they do not repaint and say that they repaint.
 - The MEQ indicator is not future prediction. Be honest about that and don't be shy to tell that it is the publicly free XprofuterDD indicator.
 - Binary options: provide instruction how to trade it or remove the claim about it.
