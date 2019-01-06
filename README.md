@@ -74,7 +74,7 @@ The interesting point about this system is trading around the round numbers, wai
 - Binary options: provide instruction how to trade it or remove the claim about it.
 
 ## Previous critique
-Mr. Buchholz does not like negative feedback. There were few previous negative critiques and Mr. Buchholz claimed that the people were fake or the contents were "much out of reality". He assumes that people hate him for his (unproven) success, but fails to acknowledge the critique arguments for his product and that people on this website might not use the name with which they have bought the product.
+Mr. Buchholz does not like negative feedback. There were few previous negative critiques (see [Forex Peace Army](https://www.forexpeacearmy.com/forex-reviews/13737/agimat-trading-system-trading-software)) and Mr. Buchholz claimed that the people were fake or the contents were "much out of reality". He assumes that people hate him for his (unproven) success, but fails to acknowledge the critique arguments for his product and that people on this website might not use the name with which they have bought the product.
 
 ## Conclusion
 Make your own conclusion.
