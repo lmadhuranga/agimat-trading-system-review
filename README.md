@@ -1,7 +1,8 @@
 # Review of the Agimat Trading System
 
-WARNING!
-The Agimat System 2018 by Mr. Buchholz repaints a lot and contains mostly freely available MQL indicators, that have been changed a bit, and few others unknown to me.
+System link: [https://www.agimat-trading-system.com/](https://www.agimat-trading-system.com/)
+
+The [Agimat Trading System 2018](https://www.agimat-trading-system.com/) by Mr. Buchholz repaints a lot and contains mostly freely available MQL indicators, that have been changed a bit, and few others unknown to me.
 
 ## Indicators
 
