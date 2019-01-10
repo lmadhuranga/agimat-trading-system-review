@@ -12,6 +12,8 @@ It comes with the following 9 indicators:
 
 This is the XprofuterDD indicator (https://www.mql5.com/en/code/7558). MEQ has almost the same input names and values as the XprofuterDD. XprofuterDD has two lines. The second line shows the bar body size. The first line is a calculation based on the bar body size. When you apply the Agimat template, for all historical bars the second Xprofuter line will be shown in MEQ and for all live calculated bars the second Xprofuter line will be shown in MEQ which is the bar body size. See a screenshot comparing MEQ and Xprofuter: https://i.imgur.com/sfmqt4u.png .
 
+![MEQ vs Xprofuter](https://i.imgur.com/sfmqt4u.png)
+
 The calculation for this indicator is a simple for loop with incremental addtion of the last 14-15 body sizes (negative and positve): for(i=shift; i>=lim; i--) {imp=imp + (Close[i] - Open[i])/Point;} , which has nothing to do with the great Maxwells Equations from physics.
 
 MEQ is not a future price predictor and it not trade volume future prediction, it is just a calculation based on past body sizes. When the price drops in a downtrend, MEQ goes high. Being shifted 14 bars to the right, it confirms your bias for counter trending as per Agimat rules.
@@ -49,6 +51,8 @@ So the real deal for this system are the first 4 indicators. The first two are s
 
 ## Repainting
 Quote from the official website: "Agimat FXtm is a non-repaint Forex trading MT4 indicator, excellent for scalping and swing trades." written below the headline "Is Agimat FX a scam?"(Source: https://web.archive.org/web/20181220122748/https://www.agimat-trading-system.com/ and https://i.imgur.com/cvBjbZv.png). Obviously this is a lie, because MEQ, ConA, ConB and Alert repaint. These indicators are used for 3 of the 4 rules of the system. Some people might even call such behaviour hypocrisy.
+
+![Agimator repaint claim](https://i.imgur.com/cvBjbZv.png)
 
 ## Neural Network (NN)
 Haven't seen any evidence of it. There might be a NN. Or not. If we check the indicators: MEQ is not NN. ConA is not NN. ConB and AAM could be a NN, but most probably are not. Indicators 5 to 9 are too simple for NN.
